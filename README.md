@@ -1,27 +1,60 @@
-# 💫 About Me:
-🔭 I'm currently working on Linux self-hosting projects, Raspberry Pi servers, and AI-powered applications.<br><br>👯 I'm looking to collaborate on open-source projects, web development, AI/ML, and system administration.<br><br>🤝 I'm looking for help with advanced Data Structures & Algorithms, competitive programming, and scalable system design.<br><br>🌱 I'm currently learning Python, AI/ML, Docker, Linux internals, and cloud technologies.<br><br>💬 Ask me about Linux, Raspberry Pi, self-hosting, networking, PC building, and web development.<br><br>⚡ Fun fact: I built and managed my own home server, NAS, Pi-hole setup, and Minecraft server before starting college.
+# Yash Godara
 
+**AI / ML Engineer**
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yashgodara161@gmail.com) 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=a855f7&center=true&vCenter=true&width=640&lines=Linux%20%26%20Open%20Source%20Enthusiast;Raspberry%20Pi%20%26%20Self-Hosting%20Explorer;Turning%20Ideas%20into%20Projects)](https://git.io/typing-svg)
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=yash98408&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=yash98408&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=yash98408&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+🔭 I'm currently working on Linux self-hosting projects, Raspberry Pi servers, and AI-powered applications.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=yash98408&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+👯 I'm looking to collaborate on open-source projects, web development, AI/ML, and system administration.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+🤝 I'm looking for help with advanced Data Structures & Algorithms, competitive programming, and scalable system design.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=yash98408&limit=5&theme=dark&combine_all_yearly_contributions=true)
+🌱 I'm currently learning Python, AI/ML, Docker, Linux internals, and cloud technologies.
 
----
-[![](https://komarev.com/ghpvc/?username=yash98408&icon=0&color=0)](https://visitcount.itsvg.in)
+💬 Ask me about Linux, Raspberry Pi, self-hosting, networking, PC building, and web development.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Location: India · Learning: Multimodal pipelines, eval design, and inference optimization
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:Yashgodara@gmail.com)
+
+## Snapshot
+
+- ⌖ **Location** · India
+- ⟳ **Learning** · Multimodal pipelines, eval design, and inference optimization
+- ✦ **Fun fact** · I built and managed my own home server, NAS, Pi-hole setup, and Minecraft server before starting college.
+
+## Stack
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,cpp,html&theme=dark" alt="Languages"/>
+
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=supabase,mongodb,nodejs,mysql&theme=dark" alt="Backend & Databases"/>
+
+**DevOps & Cloud**
+
+<img src="https://skillicons.dev/icons?i=jupyter,linux&theme=dark" alt="DevOps & Cloud"/>
+
+**AI / ML**
+
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv,pytorch&theme=dark" alt="AI / ML"/>
+
+## Languages
+- 🇬🇧 **English** · ![Native](https://img.shields.io/badge/-Native-00e87a?style=flat-square)
+
+## GitHub Signals
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Yash98408&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" alt="Yash Godara stats"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash98408&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Yash Godara top languages"/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Yash98408&theme=github_dark&hide_border=true)](https://git.io/streak-stats)
+
+## Note
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark)
+
+[Say hello](mailto:Yashgodara@gmail.com) · [Made with ReadmeForge](https://lebedevnet.github.io/ReadmeForge/)
