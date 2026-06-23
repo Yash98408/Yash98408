@@ -1,5 +1,5 @@
-Yash Godara
 <img align="center" src="https://github.com/Yash98408/Yash98408/blob/main/Yash.png" width="600" />
+
 **AI / ML Engineer**
 
 
