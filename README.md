@@ -1,8 +1,8 @@
-# Yash Godara
-
+Yash Godara
+<img align="center" src="https://github.com/Yash98408/Yash98408/blob/main/Yash.png" width="600" />
 **AI / ML Engineer**
 
-<img align="center" src="https://github.com/Yash98408/Yash98408/blob/main/Yash.png" width="600" />
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=a855f7&center=true&vCenter=true&width=640&lines=Linux%20%26%20Open%20Source%20Enthusiast;Raspberry%20Pi%20%26%20Self-Hosting%20Explorer;Turning%20Ideas%20into%20Projects)](https://git.io/typing-svg)
 
