@@ -2,6 +2,8 @@
 
 **AI / ML Engineer**
 
+<img src="https://github.com/Yash98408/Yash98408/blob/main/Yash.png" width="200" />
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=a855f7&center=true&vCenter=true&width=640&lines=Linux%20%26%20Open%20Source%20Enthusiast;Raspberry%20Pi%20%26%20Self-Hosting%20Explorer;Turning%20Ideas%20into%20Projects)](https://git.io/typing-svg)
 
 🔭 I'm currently working on Linux self-hosting projects, Raspberry Pi servers, and AI-powered applications.
